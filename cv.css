@@ -1,0 +1,53 @@
+hr{
+    margin-top:80px ;
+    
+}
+body{
+    font-style: Lora;
+    color: #424949;
+    font-size:25px;
+}
+h1{
+    font-size:45px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+#header{
+    text-align: center;
+}
+.section{
+    background-color: #fadbd8 ;
+    font-size:20px;
+    font-weight:100;
+    text-align: center;
+    margin-top:80px;
+    margin-bottom: 80px;
+}
+p{
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.skill{
+    margin-left: 450px;
+    line-height:3;
+    
+}
+.projects-section {
+    text-align: center;
+    padding: 40px;
+    
+  }
+  
+  .projects-list {
+    list-style: none;
+    padding: 0;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+.edu{
+    text-align: center;
+}
